@@ -1,0 +1,6 @@
+body{
+	background-color: black;
+	text-align: center;
+	color: teal;
+	text-shadow: 2px 2px 4px blue;
+}
